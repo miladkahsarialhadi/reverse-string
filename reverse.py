@@ -4,7 +4,7 @@ from __future__ import print_function
 import sys
 
 def Header():
-    print("\n[\tThis is an script to reverse strings.\t]")
+    print("\n[\tThis is a script to reverse strings.\t]")
     print("[\tWritten by Milad Kahsari Alhadi.\t]\n")
 
 def StartPoint(_arg_string):
